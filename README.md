@@ -1,12 +1,11 @@
-## ScriptHost(Locker)
+## Sakura
 
 Basic presentation 💀
 
-- Name : ScriptHost
-- Aliases : SHL ; ScriptHostLocker
+- Name : SakuraSavagee
+- Aliases : Sakura ; Saku
 - Working on :
-  - Euphoria.lua
-    - A skidded script for the Grand Theft Auto V Stand Mod Menu cuz i can't do shit by myself
+  - Nothing atm
 - Coding in :
 - Lua (a little)
 Socials :
