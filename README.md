@@ -3,10 +3,9 @@
 Basic presentation 💀
 
 - Name : SakuraSavagee
-- Aliases : Sakura ; Saku
 - Working on :
-  - Nothing atm
+  - Sakura.lua (Unreleased atm.)
 - Coding in :
-  - Lua (a little)
+  - Lua (for Stand's Lua API, not general Lua.)
 - Socials :
   - [Discord](<https://discord.com/users/609255359676284932>)
