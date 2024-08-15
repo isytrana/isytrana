@@ -6,6 +6,7 @@ isPhoneRequired : false
 isMain : true
 Infos :
 Creation Date : 06/06/2023 - 6th June 2023
+Account Label : Main
 
 Zero! (she.luvs.zero / 1261326908520661002)
 Flags :
@@ -13,6 +14,7 @@ isPhoneRequired : false
 isMain : false
 Infos :
 Creation Date : 12/07/2024 - 12th July 2024
+Account Label : Main2
 
 Rozie! (stand.dll. / 1162162283871469648)
 Flags :
@@ -20,6 +22,7 @@ isPhoneRequired : true
 isMain : false
 Infos :
 Creation Date : 13/09/2023 - 13th October 2023
+Account Label : Alt0
 
 Roze (standdevdbg.dll / 1150449784239439902)
 Flags :
@@ -27,6 +30,7 @@ isPhoneRequired : false
 isMain : false
 Infos :
 Creation Date : 10/09/2024 - 10th September 2023
+Account Label : Alt1
 
 standdev.dll (standdev.dll / 1261633480484323380)
 Flags :
@@ -34,6 +38,7 @@ isPhoneRequired : false
 isMain : false
 Infos :
 Creation Date : 13/07/2024 - 13th July 2024
+Account Label : Alt2
 
 Sakura (sakurasavagee / 609255359676284932)
 Flags :
@@ -41,6 +46,7 @@ isPhoneRequired : true
 isMain : false
 Infos :
 Creation Date : 09/08/2019 - 9th August 2019 [Oldest]
+Account Label : Main3
 
 Sakura (sakurad3v / 1061339597675708577)
 Flags :
@@ -48,6 +54,7 @@ isPhoneRequired : false
 isMain : false
 Infos :
 Creation Date : 07/01/2023 - 7th January 2023
+Account Label : Alt3
 
 Roze (stand.exe / 1185898774711762975)
 Flags :
@@ -55,6 +62,7 @@ isPhoneRequired : false
 isMain : false
 Infos :
 Creation Date : 17/12/2023 - 17th December 2023
+Account Label : Alt4
 
 Roze (stand.sh / 1268969408160600096)
 Flags :
@@ -62,3 +70,4 @@ isPhoneRequired : true
 isMain : false
 Infos :
 Creation Date : 02/08/2024 - 2nd August 2024 [Most Recent]
+Account Label : Alt5
