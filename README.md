@@ -11,3 +11,6 @@
           - Will write an english one soon!
 
 # [YouTube](https://www.youtube.com/@akolpa)
+
+# Discords
+- [akolpa](https://discord.com/users/1115528557033177109) (1115528557033177109)
