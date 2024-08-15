@@ -1,11 +1,11 @@
-## Sakura
+# [Github](https://github.com/ScriptHost)
+  ## Projects :
+    [Sakura.lua](https://github.com/ScriptHost/sakura-stand)
+      - Sakura is a script written in Lua for the mod menu Stand for GTA V.
+    [gta-crashes-repo](https://github.com/ScriptHost/gta-crashes-repo)
+      - Capturing every public crashes / kicks I can find and writing them here.
+    [How2StandLua](https://github.com/ScriptHost/How2StandLua)
+      - A repo to teach Lua for Stand in French.
+        - Will write an english one soon!
 
-Basic presentation 💀
-
-- Name : SakuraSavagee
-- Working on :
-  - Sakura.lua
-- Coding in :
-  - Lua (for Stand's Lua API, not general Lua.)
-- Socials :
-  - [Discord](<https://discord.com/users/609255359676284932>)
+# [YouTube](https://www.youtube.com/@akolpa)
