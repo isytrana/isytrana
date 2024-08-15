@@ -1,5 +1,5 @@
 # [Github](https://github.com/ScriptHost)
-  ## Projects :
+   Projects :
     [Sakura.lua](https://github.com/ScriptHost/sakura-stand)
       - Sakura is a script written in Lua for the mod menu Stand for GTA V.
     [gta-crashes-repo](https://github.com/ScriptHost/gta-crashes-repo)
