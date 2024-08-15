@@ -18,5 +18,5 @@
 
 # Games Socials / Others
 I may use different handles on different games such as :
-- Ethexeal. [] SakuraSavag3 / Used on Epic Games
+- Ethexeal. [] Sakura.Dev / Used on Epic Games
 - sakura / Steam, preferably use [the link](https://steamcommunity.com/id/anyasenpaii) instead.
