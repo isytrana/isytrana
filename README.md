@@ -20,8 +20,6 @@
 
 # Discords
 - [akolpa](https://discord.com/users/1115528557033177109) (1115528557033177109)
-- [sakurasavagee](https://discord.com/users/609255359676284932) (609255359676284932)
-- [she.luvs.zero](https://discord.com/users/1261326908520661002) (1261326908520661002)
 
 # Games Socials / Others
 I may use different handles on different games such as :
