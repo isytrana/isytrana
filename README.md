@@ -19,7 +19,7 @@
 # [YouTube](https://www.youtube.com/@akolpa)
 
 # Discords
-- [akolpa](https://discord.com/users/1115528557033177109) (1115528557033177109)
+- stand.sh
 
 # Games Socials / Others
 I may use different handles on different games such as :
