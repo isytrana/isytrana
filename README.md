@@ -16,7 +16,7 @@
         - A repo to teach Lua for Stand in French.
           - Will write an english one soon!
     - Projects Outside GitHub :
-      - Ezeria 
+        - Ezeria 
 
 # [YouTube](https://www.youtube.com/@akolpa)
 
