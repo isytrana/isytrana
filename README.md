@@ -15,7 +15,8 @@
       - [How2StandLua](https://github.com/ScriptHost/How2StandLua)
         - A repo to teach Lua for Stand in French.
           - Will write an english one soon!
-    - Projects Outside GitHub :
+
+     - Projects Outside GitHub :
         - Ezeria 
 
 # [YouTube](https://www.youtube.com/@akolpa)
