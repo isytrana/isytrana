@@ -8,5 +8,4 @@
   - Currently, no projects are available. :(
 
 # Discord
-- `lyna.cloud` | I'd prefer that no
-- `lyna.dev`   | one contacts me though.
+- `akolpa`
